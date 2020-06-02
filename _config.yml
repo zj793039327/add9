@@ -8,8 +8,8 @@
 # Site settings
 title: add9
 brief-intro: 给时光以生命，给岁月以温情  
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zj793039327.github.io/add9" # the base hostname & protocol for your site
+baseurl: "/add9" # the subpath of your site, e.g. /blog
+url: "https://zj793039327.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
